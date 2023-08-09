@@ -9,7 +9,7 @@ COPY ./src ./src
 RUN yarn install --frozen-lockfile --non-interactive && yarn cache clean && yarn typechain
 RUN yarn build
 
-FROM node:18.14.0-alpine3.17
+FROM node:18.17-alpine3.17
 
 WORKDIR /app
 
