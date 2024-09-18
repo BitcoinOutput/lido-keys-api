@@ -57,7 +57,7 @@
     "@nestjs/core": "^8.2.5",
     "@nestjs/platform-fastify": "^8.2.5",
     "@nestjs/schedule": "^2.0.1",
-    "@nestjs/swagger": "^5.1.5",
+    "@nestjs/swagger": "^7.4.1",
     "@nestjs/terminus": "^8.0.4",
     "@nestjs/throttler": "^2.0.0",
     "@sentry/node": "^6.16.1",
